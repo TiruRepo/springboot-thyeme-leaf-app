@@ -9,9 +9,9 @@
 		<version>2.7.9</version>
 		<relativePath /> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>in.ashokit</groupId>
+	<groupId>in.techtiru</groupId>
 	<artifactId>Boot_Thymleaf_App</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1.0-RELEASE</version>
 	<packaging>jar</packaging>
 	<name>18_WebMVC_Thymleaf_App</name>
 	<description>Demo project for Spring Boot</description>
