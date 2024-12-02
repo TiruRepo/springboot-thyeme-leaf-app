@@ -11,7 +11,7 @@
 	</parent>
 	<groupId>in.techtiru</groupId>
 	<artifactId>Boot_Thymleaf_App</artifactId>
-	<version>1.0-RELEASE</version>
+	<version>1.0.0-RELEASE</version>
 	<packaging>jar</packaging>
 	<name>18_WebMVC_Thymleaf_App</name>
 	<description>Demo project for Spring Boot</description>
